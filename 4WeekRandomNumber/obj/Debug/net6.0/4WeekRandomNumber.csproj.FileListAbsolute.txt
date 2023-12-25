@@ -1,0 +1,14 @@
+C:\Users\airi9\source\repos\Week4Loop\4WeekRandomNumber\bin\Debug\net6.0\4WeekRandomNumber.exe
+C:\Users\airi9\source\repos\Week4Loop\4WeekRandomNumber\bin\Debug\net6.0\4WeekRandomNumber.deps.json
+C:\Users\airi9\source\repos\Week4Loop\4WeekRandomNumber\bin\Debug\net6.0\4WeekRandomNumber.runtimeconfig.json
+C:\Users\airi9\source\repos\Week4Loop\4WeekRandomNumber\bin\Debug\net6.0\4WeekRandomNumber.dll
+C:\Users\airi9\source\repos\Week4Loop\4WeekRandomNumber\bin\Debug\net6.0\4WeekRandomNumber.pdb
+C:\Users\airi9\source\repos\Week4Loop\4WeekRandomNumber\obj\Debug\net6.0\4WeekRandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\airi9\source\repos\Week4Loop\4WeekRandomNumber\obj\Debug\net6.0\4WeekRandomNumber.AssemblyInfoInputs.cache
+C:\Users\airi9\source\repos\Week4Loop\4WeekRandomNumber\obj\Debug\net6.0\4WeekRandomNumber.AssemblyInfo.cs
+C:\Users\airi9\source\repos\Week4Loop\4WeekRandomNumber\obj\Debug\net6.0\4WeekRandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\airi9\source\repos\Week4Loop\4WeekRandomNumber\obj\Debug\net6.0\4WeekRandomNumber.dll
+C:\Users\airi9\source\repos\Week4Loop\4WeekRandomNumber\obj\Debug\net6.0\refint\4WeekRandomNumber.dll
+C:\Users\airi9\source\repos\Week4Loop\4WeekRandomNumber\obj\Debug\net6.0\4WeekRandomNumber.pdb
+C:\Users\airi9\source\repos\Week4Loop\4WeekRandomNumber\obj\Debug\net6.0\4WeekRandomNumber.genruntimeconfig.cache
+C:\Users\airi9\source\repos\Week4Loop\4WeekRandomNumber\obj\Debug\net6.0\ref\4WeekRandomNumber.dll

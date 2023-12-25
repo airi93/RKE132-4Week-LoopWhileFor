@@ -1,0 +1,14 @@
+C:\Users\airi9\source\repos\Week4Loop\4WeekForLoopSum\bin\Debug\net6.0\4WeekForLoopSum.exe
+C:\Users\airi9\source\repos\Week4Loop\4WeekForLoopSum\bin\Debug\net6.0\4WeekForLoopSum.deps.json
+C:\Users\airi9\source\repos\Week4Loop\4WeekForLoopSum\bin\Debug\net6.0\4WeekForLoopSum.runtimeconfig.json
+C:\Users\airi9\source\repos\Week4Loop\4WeekForLoopSum\bin\Debug\net6.0\4WeekForLoopSum.dll
+C:\Users\airi9\source\repos\Week4Loop\4WeekForLoopSum\bin\Debug\net6.0\4WeekForLoopSum.pdb
+C:\Users\airi9\source\repos\Week4Loop\4WeekForLoopSum\obj\Debug\net6.0\4WeekForLoopSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\airi9\source\repos\Week4Loop\4WeekForLoopSum\obj\Debug\net6.0\4WeekForLoopSum.AssemblyInfoInputs.cache
+C:\Users\airi9\source\repos\Week4Loop\4WeekForLoopSum\obj\Debug\net6.0\4WeekForLoopSum.AssemblyInfo.cs
+C:\Users\airi9\source\repos\Week4Loop\4WeekForLoopSum\obj\Debug\net6.0\4WeekForLoopSum.csproj.CoreCompileInputs.cache
+C:\Users\airi9\source\repos\Week4Loop\4WeekForLoopSum\obj\Debug\net6.0\4WeekForLoopSum.dll
+C:\Users\airi9\source\repos\Week4Loop\4WeekForLoopSum\obj\Debug\net6.0\refint\4WeekForLoopSum.dll
+C:\Users\airi9\source\repos\Week4Loop\4WeekForLoopSum\obj\Debug\net6.0\4WeekForLoopSum.pdb
+C:\Users\airi9\source\repos\Week4Loop\4WeekForLoopSum\obj\Debug\net6.0\4WeekForLoopSum.genruntimeconfig.cache
+C:\Users\airi9\source\repos\Week4Loop\4WeekForLoopSum\obj\Debug\net6.0\ref\4WeekForLoopSum.dll

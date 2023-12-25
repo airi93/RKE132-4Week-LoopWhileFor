@@ -1,0 +1,14 @@
+C:\Users\airi9\source\repos\Week4Loop\4WeekWhileLoop\obj\Debug\net6.0\4WeekWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\airi9\source\repos\Week4Loop\4WeekWhileLoop\obj\Debug\net6.0\4WeekWhileLoop.AssemblyInfoInputs.cache
+C:\Users\airi9\source\repos\Week4Loop\4WeekWhileLoop\obj\Debug\net6.0\4WeekWhileLoop.AssemblyInfo.cs
+C:\Users\airi9\source\repos\Week4Loop\4WeekWhileLoop\obj\Debug\net6.0\4WeekWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\airi9\source\repos\Week4Loop\4WeekWhileLoop\bin\Debug\net6.0\4WeekWhileLoop.exe
+C:\Users\airi9\source\repos\Week4Loop\4WeekWhileLoop\bin\Debug\net6.0\4WeekWhileLoop.deps.json
+C:\Users\airi9\source\repos\Week4Loop\4WeekWhileLoop\bin\Debug\net6.0\4WeekWhileLoop.runtimeconfig.json
+C:\Users\airi9\source\repos\Week4Loop\4WeekWhileLoop\bin\Debug\net6.0\4WeekWhileLoop.dll
+C:\Users\airi9\source\repos\Week4Loop\4WeekWhileLoop\bin\Debug\net6.0\4WeekWhileLoop.pdb
+C:\Users\airi9\source\repos\Week4Loop\4WeekWhileLoop\obj\Debug\net6.0\4WeekWhileLoop.dll
+C:\Users\airi9\source\repos\Week4Loop\4WeekWhileLoop\obj\Debug\net6.0\refint\4WeekWhileLoop.dll
+C:\Users\airi9\source\repos\Week4Loop\4WeekWhileLoop\obj\Debug\net6.0\4WeekWhileLoop.pdb
+C:\Users\airi9\source\repos\Week4Loop\4WeekWhileLoop\obj\Debug\net6.0\4WeekWhileLoop.genruntimeconfig.cache
+C:\Users\airi9\source\repos\Week4Loop\4WeekWhileLoop\obj\Debug\net6.0\ref\4WeekWhileLoop.dll
